@@ -1,0 +1,11 @@
+{
+  "name": "honkit-plugin-ba-scripts",
+  "version": "0.0.1",
+  "description": "Adds Brand Analytics extra scripts to the book",
+  "engines": {
+    "honkit": ">1.x.x"
+  },
+  "honkit": {
+
+  }
+}
